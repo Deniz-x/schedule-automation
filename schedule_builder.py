@@ -82,4 +82,4 @@ for reservation in reservations:
     fill.fore_color.rgb = RGBColor(244,13,48)
 
     
-prs.save("schedule_of_the_day2.pptx")
+prs.save("schedule_of_the_day.pptx")
